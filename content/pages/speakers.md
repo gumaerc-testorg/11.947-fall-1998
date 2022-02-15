@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Speakers
 uid: da9183f6-5953-3264-ec2a-bb61d7ca97c4
 ---
