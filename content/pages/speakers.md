@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Brief biographies of the guest speakers.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Speakers
