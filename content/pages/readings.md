@@ -10,13 +10,13 @@ uid: cf899b45-efa3-ca08-0feb-94974336a5ec
 
 All readings from this class can be found in the following book:
 
-Vale, Lawrence, and Sam Bass Warner, eds. [_Imaging the City: Continuing Struggles and New Directions_](http://dx.doi.org/10.1111/j.0735-2166.2004.0bkrevb.x). New Brunswick, NJ: Center for Urban Policy Research, 2001. ISBN: 0882851691.
+Vale, Lawrence, and Sam Bass Warner, eds. {{% resource_link "b257a121-0607-4e7a-b7a8-326f6a658cfe" "_Imaging the City: Continuing Struggles and New Directions_" %}}. New Brunswick, NJ: Center for Urban Policy Research, 2001. ISBN: 0882851691.
 
 Other readings by session are listed below:
 
 ### Week #3
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/what-time-place) Lynch, Kevin. "Celebrating Time," and "The Direct Display of Change." In [_What Time Is This Place?_](https://mitpress.mit.edu/books/what-time-place) Cambridge, MA: MIT Press, 1976, pp. 83-89, 180-184. ISBN: 0262620324.
+{{% resource_link "5c0c09dd-0338-45f8-8bd9-d0860133bad9" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Lynch, Kevin. "Celebrating Time," and "The Direct Display of Change." In {{% resource_link "5c0c09dd-0338-45f8-8bd9-d0860133bad9" "_What Time Is This Place?_" %}} Cambridge, MA: MIT Press, 1976, pp. 83-89, 180-184. ISBN: 0262620324.
 
 MacCannell, Dean. "Staged Authenticity: Arrangements of Social Space in Tourist Settings." _American Journal of Sociology_ 79, no. 3 (1973): 589-603.
 
